@@ -57,11 +57,11 @@ The process followed in this project includes:
 ---
 
 ## Repository Structure
-│── data/ # Dataset (tweets)
-│── notebooks/ # Jupyter notebooks for preprocessing and modeling
-│── src/ # Source code for training and testing
-│── results/ # Model results and visualizations
-│── README.md # Project documentation
+-│── data/ # Dataset (tweets)
+-│── notebooks/ # Jupyter notebooks for preprocessing and modeling
+-│── src/ # Source code for training and testing
+-│── results/ # Model results and visualizations
+-│── README.md # Project documentation
 
 ---
 
